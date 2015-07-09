@@ -1,0 +1,93 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,300,700);
+h1{
+  font-family: Oswald;
+  font-weight: 700;
+  text-align: center;
+}
+
+h2{
+  font-family: Oswald;
+  font-weight: 400;
+  text-align: left;
+  padding: 2% 0 0 2%;
+}
+
+h3{
+  font-family: Oswald;
+  font-weight: 300;
+  text-align: center;
+  color:  #006E6E;
+}  
+
+ul li{
+  display: inline-block;
+  padding: 0 5% 2% 5%;
+}
+
+nav{
+  font-family: Oswald;
+  text-align: center;
+  padding: 0 3% 2% 3%;
+  margin: 0 5%;
+}
+
+#ew {
+    font-family: Oswald;
+    text-align: center;
+    padding: 2% -20%;
+    font-weight: 300;
+    margin: 1% -70%;
+}
+
+.new {
+  padding: 2% 5% 2% 5%;
+}
+
+.portfolio{
+  width: 40%;
+  padding: 2%;
+  display: inline;
+}
+
+#bc{
+  min-width: 48.25%;
+} 
+
+#ab{
+  min-width: 30%;
+}
+
+.stuff p {
+  width: 30%;
+  float: right;
+  font-family: Oswald;
+  font-weight: 300;
+  text-align: left;
+  padding: 1% 15% 2% 0;
+  
+}
+
+.stuff img{
+  width: 20%;
+  float: left;
+  padding: 1% 0 2% 15%;
+}
+
+.clearfix{
+	visibility: hidden;
+  display: block;
+  content: " ";
+  height: 0;
+  clear: both;
+}
+
+p{
+   font-family: Oswald;
+  font-weight: 300;
+  text-align: left;
+}
+
+.contact{
+  text-align: center;
+}
+
